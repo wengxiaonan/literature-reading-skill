@@ -68,3 +68,7 @@ Copy-Item SKILL.md "F:\deepseek harness\.dsh\skills\literature-reading\SKILL.md"
 
 - 本技能专注“阅读与分析”，如需将文献内容做成公众号文章 / PPT / 综述，请另行使用对应技能。
 - 扫描版 PDF（无文字层）需 OCR，本技能默认不做强 OCR。
+
+## License
+
+[MIT](LICENSE) © 2026 wengxiaonan
